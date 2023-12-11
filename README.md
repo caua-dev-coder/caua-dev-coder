@@ -1,6 +1,6 @@
-### Olá tudo bem ?
-#### Me chamo Cauã Tavella
-#### Amo trabalhar com Des.Web desde front-end até back-end.
+### Hi, How are you?
+#### My Name is Caua
+#### I love Technologies and Codes
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caua-dev-coder&theme=ambient_gradient&show_icons=true)
 
