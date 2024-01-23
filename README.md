@@ -1,12 +1,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá Me chamo cauã e sou um Dev.Full Stack, atualmente faço parte da comunidade Dev.Club.
-  Estou estudando React, TypeScript e NodeJS.
+  Olá Me chamo cauã e sou um Dev.Frontend, atualmente faço parte da comunidade Dev.Club.
+  Estou estudando React, TypeScript e NodeJS. Faço trabalhos como Freelancer usando todas as minhas 
+  habilidades e ferramentas, entregando sempre um bom resultado para meus clientes.
 </p>
 
 <p align="left">
-  🦄 Linguagens: JavaScript, TypeScript, Java
+  🦄 Linguagens que domino: JavaScript, TypeScript
 </p>
 
 <p align="left">
