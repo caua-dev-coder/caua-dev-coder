@@ -7,10 +7,6 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens que domino: JavaScript, TypeScript
-</p>
-
-<p align="left">
   💌 Contatos: ⤵️
 </p>
 
