@@ -1,4 +1,4 @@
-<a href="https://github.com/DavidsDvm">![DevHenri Profile GIF](../imgs/OlaMundo.gif)</a>
+<a href="">![DevHenri Profile GIF](./imgs/OlaMundo.gif)</a>
 
 <!-- Social icons section -->
 <h1 align="center"> Redes Sociais: </h1>
@@ -69,24 +69,24 @@ Entre em contato para novos projetos 📨, <sup>Estou aberto a colaborar com voc
 <h1 align="center"> Idiomas/Frameworks em que sou bom: </h1>
 <p align="center">
   <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="../imgs/css.png" height="42"></a></code>
-  <code><a href="https://reactjs.org/"><img alt="Vue" title="Vue" src="../imgs/react.png" height="42"></a></code>
-  <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="../imgs/js.png" height="42"></a></code>
-    <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="../imgs/html.png" height="42"></a></code>
+  <code><a href="https://reactjs.org/"><img alt="Vue" title="Vue" src="./imgs/react.png" height="42"></a></code>
+  <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./imgs/js.png" height="42"></a></code>
+    <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./imgs/html.png" height="42"></a></code>
 </p>
 <br>
 
 <h1 align="center"> Idiomas/Frameworks que estou aprendendo: </h1>
 <p align="center">
-  <code><a href=""><img alt="vue" title="Vue" src="../imgs/vue.png" height="42"></a></code>
-  <code><a href=""><img alt="python" title="python" src="../imgs/python.png" height="42"></a></code>
+  <code><a href=""><img alt="vue" title="Vue" src="./imgs/vue.png" height="42"></a></code>
+  <code><a href=""><img alt="python" title="python" src="./imgs/python.png" height="42"></a></code>
 </p>
 <br>
 
 <h1 align="center"> Ambientes com os quais trabalho: </h1>
 <p align="center">
-  <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="../imgs/github.png" height="42"></a></code>
-  <code><a href="https://www.npmjs.com"><img alt="NPM" title="NPM" src="../imgs/npm.png" height="42"></a></code>
-  <code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="../imgs/vscode.png" height="42"></a></code>
+  <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="./imgs/github.png" height="42"></a></code>
+  <code><a href="https://www.npmjs.com"><img alt="NPM" title="NPM" src="./imgs/npm.png" height="42"></a></code>
+  <code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="./imgs/vscode.png" height="42"></a></code>
 </p>
 <br>
 
