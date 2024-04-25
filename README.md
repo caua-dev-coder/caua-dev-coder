@@ -68,7 +68,7 @@ Entre em contato para novos projetos 📨, <sup>Estou aberto a colaborar com voc
 
 <h1 align="center"> Idiomas/Frameworks em que sou bom: </h1>
 <p align="center">
-  <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="../imgs/css.png" height="42"></a></code>
+  <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="./imgs/css.png" height="42"></a></code>
   <code><a href="https://reactjs.org/"><img alt="Vue" title="Vue" src="./imgs/react.png" height="42"></a></code>
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./imgs/js.png" height="42"></a></code>
     <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./imgs/html.png" height="42"></a></code>
